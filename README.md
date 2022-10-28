@@ -53,3 +53,4 @@ Jupyter Notebook
 С результатами вы можете ознакомиться в файле.
 
 ## Ссылка на репозиторий: 
+https://svetlinika-sl.github.io/project_3_sale_of_real_estate/
